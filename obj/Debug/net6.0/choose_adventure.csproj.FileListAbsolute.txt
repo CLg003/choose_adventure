@@ -1,0 +1,15 @@
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.csproj.AssemblyReference.cache
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.AssemblyInfoInputs.cache
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.AssemblyInfo.cs
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.csproj.CoreCompileInputs.cache
+/Users/clairelaing/c_sharp/choose_adventure/bin/Debug/net6.0/choose_adventure
+/Users/clairelaing/c_sharp/choose_adventure/bin/Debug/net6.0/choose_adventure.deps.json
+/Users/clairelaing/c_sharp/choose_adventure/bin/Debug/net6.0/choose_adventure.runtimeconfig.json
+/Users/clairelaing/c_sharp/choose_adventure/bin/Debug/net6.0/choose_adventure.dll
+/Users/clairelaing/c_sharp/choose_adventure/bin/Debug/net6.0/choose_adventure.pdb
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.dll
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/refint/choose_adventure.dll
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.pdb
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/choose_adventure.genruntimeconfig.cache
+/Users/clairelaing/c_sharp/choose_adventure/obj/Debug/net6.0/ref/choose_adventure.dll
